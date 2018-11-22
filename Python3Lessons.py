@@ -31,9 +31,11 @@ This is a multiline docstrings.
 '''
 
 """
-This is where you write as many comment
-or notes you want and the compile will not
-read this group of text
+Say something, say something, say something
+Say something, say something, say something
+Say something, say something, say something
+Say something, say something, say something
+Say something, say something, say something
 """
 
 '''
@@ -60,9 +62,9 @@ firstName = "Malik"
 secondName = "Shabara"
 lastName = "King"
 
-occupation = "Data Analytics"
-jobTitle = "Manager"
-role = "Customer Service Asssitance"
+occupation = "Programmer"
+jobTitle = "Marketing Manager"
+role = "Chef"
 
 myAge = 31
 myCurrentAge = 102
